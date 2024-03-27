@@ -1,2 +1,2 @@
-# Azure-AI-Demos
-AI Demos for different industries using Azure cloud services
+# Azure AI Demos
+ Ai Demos on Azure for different industries
